@@ -1,1 +1,1 @@
-# KQL-Defender-Queries
+# Kusto-Query-Language
