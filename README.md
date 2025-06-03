@@ -1,1 +1,1 @@
-# Kusto-Query-Language
+# Welcome
