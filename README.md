@@ -1,1 +1,1 @@
-# Welcome
+## Microsoft Defender XDR/Sentinel KQL
