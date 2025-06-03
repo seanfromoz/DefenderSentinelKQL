@@ -1,0 +1,1 @@
+# KQL-Defender-Queries
