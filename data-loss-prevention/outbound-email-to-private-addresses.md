@@ -1,7 +1,7 @@
 ## Outbound Email from Company Domain to Popular Free Email Accounts
 
 
-One of the first basic KQL scripts I wrote for showing emails sent from company domain addresses to popular private email accounts.
+Show emails sent from company domain addresses to popular private email accounts.
 
 
 ```kusto
