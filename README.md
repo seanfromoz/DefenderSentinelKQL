@@ -2,4 +2,4 @@
 
 Kusto Query Language scripts I've written and collected over time.
 
-### Miscell - Random KQL scripts that don't really fit into a category.
+Miscell - Random KQL scripts that don't really fit into a category.
