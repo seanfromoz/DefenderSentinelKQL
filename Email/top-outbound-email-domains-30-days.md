@@ -1,7 +1,7 @@
-## Lists the top senders over 30 days
+## Lists the top outbound domains over 30 days
 
 
-Show inbound sender domains over 30 days.
+Show outbound sender domains over 30 days.
 
 
 ```kusto
