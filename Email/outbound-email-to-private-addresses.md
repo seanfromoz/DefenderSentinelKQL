@@ -20,7 +20,7 @@ EmailEvents
         or RecipientEmailAddress endswith "@zoho.com"
         or RecipientEmailAddress endswith "@mail.com"
         or RecipientEmailAddress endswith "@bigpond.com"
-        or RecipientEmailAddress endswith "@storyconsulting.com.au"f
+        or RecipientEmailAddress endswith "@storyconsulting.com.au"
         or RecipientEmailAddress endswith "@live.com.au"
         or RecipientEmailAddress endswith "@yahoo.com.au"
         or RecipientEmailAddress endswith "@iinet.net.au"
