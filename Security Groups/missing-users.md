@@ -1,3 +1,9 @@
+## Search for users who are not in required security groups
+
+
+List users not in stated security group.
+
+```kusto
 // Users NOT in a specific security group (match by display name)
 let targetGroupName = "security_group";
 let users_latest =
